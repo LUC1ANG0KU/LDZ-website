@@ -86,7 +86,7 @@ button {
     display: block;
     text-decoration: none;
     color: #108EC4;
-    font-family: "josefin-sans";
+    font-family: "Raleway";
     padding: 1.2em;
     
     
@@ -94,7 +94,7 @@ button {
 
 #box-contain {
     
-    height: 17em;
+    height: 17.9em;
     width: 20em;
     position: absolute;
     top: 15em;
@@ -117,7 +117,7 @@ button {
 #p1 {
     
     color: #108EC4;
-    font-family: "Lato";
+    font-family: "Exo";
     font-size: 2em;
     position: absolute;
     top: 4.5em;
@@ -141,7 +141,7 @@ button {
 #p2 {
     
     color: #108EC4;
-    font-family: "Lato";
+    font-family: "Exo";
     font-size: 2em;
     position: absolute;
     top: -2.95em;
