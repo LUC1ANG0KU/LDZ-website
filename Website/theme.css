@@ -25,16 +25,17 @@
 
 body {
     
-    background-color: #EDEDED;
+    background-color: #ECF0F1;
     
 }
 
 #a1 {
 
     text-decoration: none;
-    color: #108EC4;
-    font-family: "josefin-sans";
+    color: #000000;
+    font-family: 'Alegreya Sans SC', sans-serif;    
     padding: 6px;
+    margin-top: 2em;
     
 }
     
@@ -47,6 +48,7 @@ h1{
   text-align: center;
   font-family: 'Lato', sans-serif;
   color: #0262C9;
+  
    
 }
 
@@ -62,14 +64,16 @@ h1{
 }
 
 
-button {
+#button {
     
-    background-image: url('Menu-button.png');
-    height: 6.4em;
-    width: 6.4em;
+    background-image: url('MENU.svg');
+    background-color: inherit;
+    background-size: 2em;
+    height: 1.6em;
+    width: 2em;
     position: absolute;
-    top: 13em;
-    left: 0em;
+    top: 7em;
+    left: 1em;
     border: none;
 }
 
@@ -85,7 +89,7 @@ button {
     
     display: block;
     text-decoration: none;
-    color: #108EC4;
+    color: #2980B9;
     font-family: "josefin-sans";
     padding: 1.2em;
     
@@ -149,7 +153,7 @@ button {
     
 }
     
-    
+
     
     
     

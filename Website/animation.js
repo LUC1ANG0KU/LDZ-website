@@ -1,4 +1,4 @@
-    var menuEnabled = false;
+/*    var menuEnabled = false;
 
 $("button").click(function() {
     if (menuEnabled) {
@@ -14,3 +14,10 @@ $("button").click(function() {
 
     }
 });
+*/
+
+
+$(document).ready(function() {
+  $('#simple-menu').sidr();
+});
+ 

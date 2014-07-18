@@ -1,0 +1,59 @@
+.sidr
+{
+    display:none;
+    position:absolute;
+    position:fixed;
+    top:0;
+    height:100%;
+    z-index:999999;
+    width:260px;
+    overflow-x:none;
+    overflow-y:auto;
+    font-size:15px;
+    background:rgba(187, 206, 206, 0.42);
+    
+}
+
+.sidr.right
+{
+    left:auto;
+    right:-260px
+}
+
+.sidr.left
+{
+    left:-260px;
+    right:auto;
+}
+
+.sidr ul
+{
+    display:block;
+    margin:0 0 15px;
+    padding:0;
+
+}
+
+.sidr ul li
+{
+    display:block;
+    margin:0;
+    line-height:48px;
+   
+}
+
+.sidr ul li a,.sidr ul li span
+{
+    padding:0 15px;
+    display:block;
+    text-decoration:none;
+    color:#fff;
+}
+
+
+
+
+
+
+
+
