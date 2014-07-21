@@ -3,7 +3,7 @@
 
 body {
     
-    background-color: #ECF0F1;
+    background-color: #BDC3C7;
     
 }
 
@@ -50,9 +50,9 @@ h1{
     background-size: 3em;
     height: 1.2em;
     width: 2.2em;
-    position: fixed;
+    position: absolute;
     top: 6em;
-    left: 75em;
+    left: 1em;
     
 }
 
@@ -78,7 +78,7 @@ h1{
 
 #box-contain {
     
-    height: 17em;
+    height: 33.98em;
     width: 20em;
     position: absolute;
     top: 15em;
@@ -133,10 +133,59 @@ h1{
     
 }
     
+.a12 {
 
+
+font-family: 'Raleway', sans-serif;
+font-size: 3em;
+position: absolute;
+top: 11em;
+left: 1.8em;
+color: #186BA1;
+
+
+}
     
+#box3 {
+
+height: 7.9em;
+width: 20em;
+position: absolute;
+left: 0em;
+top: 40em;
+background-color: #fff;
+opacity: 50;
+text-align: center;
+
+}
     
+ .a16 {
+
+font-family: 'Raleway', sans-serif;
+font-size: 3em;
+position: absolute;
+top: 1em;
+left: 2em;
+color: #186BA1;
+
+ }   
+
+ .a17 {
+
+
+
+ }
     
-    
-    
+#box4 {
+
+    height: 3.4em;
+    width: 20em;
+    position: absolute;
+    top: 13em;
+    left: 0em;
+    background-color: #fff;
+    opacity: 50;
+    text-align: center;
+
+}  
     
